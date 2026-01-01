@@ -38,7 +38,7 @@
     "expo-permissions": "~9.3.0",
     "https-browserify": "~0.0.0",
     "i18next": "17.0.6",
-    "jest-expo": "^39.0.0",
+    "jest-expo": "^54.0.16",
     "libphonenumber-js": "^1.7.25",
     "path-browserify": "0.0.0",
     "punycode": "^1.2.4",
